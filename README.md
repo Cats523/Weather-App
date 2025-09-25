@@ -34,7 +34,6 @@ The app has been tested successfully on **Expo Go**:
 
 ## 📦 Deliverables
 
-- 📂 **Source Code**: [GitHub Repository](https://github.com/Cats523/Weather-App.git)  
 - 📱 **Android APK**: Available inside the `assets/` folder  
 
 ---
